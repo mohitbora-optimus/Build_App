@@ -1,0 +1,10 @@
+c:\users\optimus150.optimusdom\documents\visual studio 2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.exe.config
+C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder\BuildApp2.exe.config
+C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder\BuildApp2.exe
+C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder\BuildApp2.pdb
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\obj\Debug\BuildApp2.csprojResolveAssemblyReference.cache
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\obj\Debug\BuildApp2.exe
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\obj\Debug\BuildApp2.pdb
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.exe.config
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.exe
+C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.pdb
