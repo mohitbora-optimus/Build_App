@@ -8,3 +8,6 @@ C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\Bui
 C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.exe.config
 C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.exe
 C:\Users\optimus150.OPTIMUSDOM\Documents\VisualStudio2012\Projects\BuildApp2\BuildApp2\bin\Debug\BuildApp2.pdb
+C:\Users\optimus150.OPTIMUSDOM\Desktop\Build_App\BuildApp2\bin\Debug\BuildApp2.exe.config
+C:\Users\optimus150.OPTIMUSDOM\Desktop\Build_App\BuildApp2\obj\Debug\BuildApp2.exe
+C:\Users\optimus150.OPTIMUSDOM\Desktop\Build_App\BuildApp2\obj\Debug\BuildApp2.pdb
